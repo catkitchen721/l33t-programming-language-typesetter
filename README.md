@@ -34,4 +34,4 @@
 
 	... etc
 ```
-## The l33t code is now translated to a easy-looking pattern.
+## The l33t code is now translated to a easy-to-see pattern.
